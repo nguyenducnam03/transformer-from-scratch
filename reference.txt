@@ -1,0 +1,4 @@
+github: https://github.com/hkproj/pytorch-transformer/blob/dev/model.py
+Youtube:
+- Math: https://www.youtube.com/watch?v=bCz4OMemCcA
+- Code: https://www.youtube.com/watch?v=ISNdQcPhsts
