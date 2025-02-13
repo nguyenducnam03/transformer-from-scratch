@@ -1,5 +1,6 @@
 # Transformer From Scratch
-
+- This is now just an implement of architecture Transformer.
+- Following https://www.youtube.com/watch?v=ISNdQcPhsts to code translation task using this architecture.
 ## Overview
 
 **Transformer From Scratch** is a Python implementation of the Transformer model architecture. The project aims to provide a deeper understanding of how the Transformer model works by implementing all **components of the architecture** using pure Python and object-oriented programming (OOP). 
